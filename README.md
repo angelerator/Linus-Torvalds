@@ -1,3 +1,4 @@
+#Author: Darin Croft
 # Linus-Torvalds
 ##1 - Married Tove Torvalds, a six-time Finnish national larate champion.
 ##2 - In 2004 he was named one of the most influencial people in the world
